@@ -1,5 +1,5 @@
 ---
-title: "My first post with github pages"
+title: "Post Title : My first post with github pages"
 date: 2018-11-19
 ---
 
